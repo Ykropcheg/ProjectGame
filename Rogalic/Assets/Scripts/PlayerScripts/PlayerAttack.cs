@@ -11,22 +11,27 @@ public class PlayerAttack : MonoBehaviour
     public LayerMask enemy;
     public float attackRange;
     public float damage;
+    public Animator anim;
 
     private void Update()
     {
 
         if(timeBtwAttack <= 0){
             if(Input.GetMouseButton(0)){
-                Collider2D[] enemies = Physics2D.OverlapCircleAll(attackPos.position, attackRange, enemy);
-                for (int i = 0; i < enemies.Length; i++){
-                    damage = Random.Range(10f, 50f);
-                    enemies[i].GetComponent<Enemy>().TakeDamage(damage);
-                }
+                anim.SetTrigger("attack");
             }
             timeBtwAttack = startTimeBtwAttack;
         }
         else{
             timeBtwAttack -= Time.deltaTime;
+        }
+    }
+
+    public void OnAttack(){
+        Collider2D[] enemies = Physics2D.OverlapCircleAll(attackPos.position, attackRange, enemy);
+        for (int i = 0; i < enemies.Length; i++){
+            damage = Random.Range(10f, 50f);
+            enemies[i].GetComponent<Enemy>().TakeDamage(damage);
         }
     }
     private void OnDrawGizmosSelected(){
