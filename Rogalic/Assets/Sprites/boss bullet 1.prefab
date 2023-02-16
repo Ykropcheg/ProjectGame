@@ -181,7 +181,7 @@ GameObject:
   - component: {fileID: 338143590100978395}
   - component: {fileID: 7136885598280660918}
   m_Layer: 0
-  m_Name: boss bullet
+  m_Name: boss bullet 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -295,5 +295,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
-  dir: {x: -1, y: 0}
+  dir: {x: 1, y: 0}
   damage: 0
