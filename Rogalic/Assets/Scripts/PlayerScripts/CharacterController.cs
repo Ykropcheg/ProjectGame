@@ -117,7 +117,12 @@ public class CharacterController : MonoBehaviour
         }
     }
 
-
+    private void OnCollisionEnter2D(Collision2D other) {
+        if(other.gameObject.tag == "MoveDamager"){
+            float dmg = 20;
+            GetComponent<HealthBar>().PlayerTakeDamage(dmg);
+        }
+    }
     public void destroyEventCharacter()
     {
         Destroy(gameObject);

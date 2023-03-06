@@ -25,7 +25,7 @@ public class BossFight : MonoBehaviour
     void OrbShoot(){
         if(!isShooting){
             isShooting = true;
-            Invoke("ShootLock", 10f);
+            Invoke("ShootLock", 5f);
             int i = 0;
             if(player.position.x > SpawnPos.position.x){
                 i = 0;
