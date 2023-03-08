@@ -2,12 +2,12 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class HealthBar : MonoBehaviour
 {
     public Image healthBar;
     public float HP;
-    public GameObject go;
     public float _maxHealth = 100f;
     public Animator _anim;
 
@@ -29,7 +29,16 @@ public class HealthBar : MonoBehaviour
         HP -= dmg;
         healthBar.fillAmount = HP / _maxHealth;
         if(HP <= 0){
-            Destroy(go);
+            GameObject obj = GameObject.Find("Knight");
+            CharacterController script1 = obj.GetComponent<CharacterController>();
+            PlayerAttack script2 = obj.GetComponent<PlayerAttack>();
+            script1.enabled = false;
+            script2.enabled = false;
+            _anim.Play("Death");
         }
+    }
+
+    public void SceneReload(){
+        SceneManager.LoadScene(1);
     }
 }

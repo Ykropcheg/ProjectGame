@@ -19,7 +19,7 @@ public class CharacterController : MonoBehaviour
     private Interactable interactableObj;
 
     [Header("Dash Settings")]
-    public int dashImpulse = 10000;
+    public int dashImpulse = 2500;
     public static bool haveDash = false;
     private bool lockDash = false;
 

@@ -795,7 +795,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   healthBar: {fileID: 0}
   HP: 0
-  go: {fileID: 0}
   _maxHealth: 100
   _anim: {fileID: 0}
 --- !u!114 &300774614
@@ -812,7 +811,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   healthBar: {fileID: 363567098}
   HP: 0
-  go: {fileID: 300774604}
   _maxHealth: 100
   _anim: {fileID: 300774611}
 --- !u!1 &363567096
