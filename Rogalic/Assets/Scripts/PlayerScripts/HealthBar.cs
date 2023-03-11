@@ -7,6 +7,7 @@ using UnityEngine.SceneManagement;
 public class HealthBar : MonoBehaviour
 {
     public Image healthBar;
+    public Image HealApple;
     public float HP;
     public float _maxHealth = 100f;
     public Animator _anim;
@@ -21,7 +22,14 @@ public class HealthBar : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+        if (HP > _maxHealth){
+            HP = _maxHealth;
+        }
+        if (Input.GetKeyDown(KeyCode.R) && HealApple.fillAmount > 0){
+            Heal();
+        }
+        
+        
     }
 
     public void PlayerTakeDamage(float dmg){
@@ -41,4 +49,11 @@ public class HealthBar : MonoBehaviour
     public void SceneReload(){
         SceneManager.LoadScene(1);
     }
+
+    void Heal(){
+        HP += 25;
+        healthBar.fillAmount = HP / _maxHealth;
+        HealApple.fillAmount -= 0.25f;
+    }
+
 }
