@@ -11,6 +11,7 @@ public class HealthBar : MonoBehaviour
     public float HP;
     public float _maxHealth = 100f;
     public Animator _anim;
+    private bool canTakeDamage = true;
 
     // Start is called before the first frame update
     void Start()
@@ -28,21 +29,27 @@ public class HealthBar : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.R) && HealApple.fillAmount > 0){
             Heal();
         }
+        if(HP <= 0){
+            canTakeDamage = false;
+            GameObject obj = GameObject.Find("Knight");
+            CharacterController script1 = obj.GetComponent<CharacterController>();
+            PlayerAttack script2 = obj.GetComponent<PlayerAttack>();
+            HealthBar script3 = obj.GetComponent<HealthBar>();
+            script1.enabled = false;
+            script2.enabled = false;
+            script3.enabled = false;
+            _anim.Play("Death");
+            
+        }
         
         
     }
 
     public void PlayerTakeDamage(float dmg){
-        _anim.Play("Hurt");
-        HP -= dmg;
-        healthBar.fillAmount = HP / _maxHealth;
-        if(HP <= 0){
-            GameObject obj = GameObject.Find("Knight");
-            CharacterController script1 = obj.GetComponent<CharacterController>();
-            PlayerAttack script2 = obj.GetComponent<PlayerAttack>();
-            script1.enabled = false;
-            script2.enabled = false;
-            _anim.Play("Death");
+        if (canTakeDamage){
+            _anim.Play("Hurt");
+            HP -= dmg;
+            healthBar.fillAmount = HP / _maxHealth;
         }
     }
 

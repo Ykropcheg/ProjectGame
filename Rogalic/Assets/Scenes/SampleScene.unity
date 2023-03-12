@@ -756,7 +756,6 @@ GameObject:
   - component: {fileID: 300774614}
   - component: {fileID: 300774607}
   - component: {fileID: 300774606}
-  - component: {fileID: 300774613}
   m_Layer: 6
   m_Name: Knight
   m_TagString: Player
@@ -794,12 +793,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0ae45ea0fd5a86a439510c00286a0200, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startTimeBtwAttack: 0.1
+  startTimeBtwAttack: 0
   attackPos: {fileID: 1562498604}
   enemy:
     serializedVersion: 2
     m_Bits: 128
-  attackRange: 0.4
+  attackRange: 0.6
   damage: 50
   anim: {fileID: 300774611}
   isAttacking: 0
@@ -938,23 +937,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &300774613
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 300774604}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 950b0707bcc6f99419a7ad8d0a50482d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  healthBar: {fileID: 0}
-  HealApple: {fileID: 0}
-  HP: 0
-  _maxHealth: 100
-  _anim: {fileID: 0}
 --- !u!114 &300774614
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1705,6 +1687,37 @@ Transform:
   m_Father: {fileID: 300774605}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1214048405
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1214048406}
+  m_Layer: 7
+  m_Name: SpawnPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1214048406
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1214048405}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.47, y: 1.23, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1814546337}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1215019939
 GameObject:
   m_ObjectHideFlags: 0
@@ -1999,8 +2012,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1302509877}
   - component: {fileID: 1302509876}
+  - component: {fileID: 1302509879}
+  - component: {fileID: 1302509878}
   - component: {fileID: 1302509875}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Demon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2094,6 +2109,31 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1302509878
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1302509874}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62eabeb0d6b293241939a56a850addf9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 400
+--- !u!114 &1302509879
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1302509874}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52fbf68fd130b104984297c25fce9060, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1322198439
 GameObject:
   m_ObjectHideFlags: 0
@@ -15947,8 +15987,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1814546337}
   - component: {fileID: 1814546336}
+  - component: {fileID: 1814546338}
+  - component: {fileID: 1814546339}
   - component: {fileID: 1814546335}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Necromancer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16038,10 +16080,40 @@ Transform:
   m_LocalPosition: {x: 95.20528, y: 1.8357338, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 1214048406}
   m_Father: {fileID: 0}
   m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1814546338
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1814546334}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62eabeb0d6b293241939a56a850addf9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 150
+--- !u!114 &1814546339
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1814546334}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2205747ab8f49b4a8f8c3500e134935, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpawnPoint: {fileID: 1214048406}
+  player: {fileID: 300774605}
+  SkeletonHead: {fileID: 432926320647740027, guid: 782888b62e5d39449a2e8f3376c3b773, type: 3}
+  aniim: {fileID: 1814546335}
 --- !u!1 &1902822654
 GameObject:
   m_ObjectHideFlags: 0

@@ -21,7 +21,7 @@ public class PlayerAttack : MonoBehaviour
     {
 
         if(timeBtwAttack <= 0){
-            if(Input.GetMouseButton(0) && !isAttacking){
+            if(Input.GetMouseButtonDown(0) && !isAttacking){
                 isAttacking = true;
                 int choose = UnityEngine.Random.Range(1, 4);
                 anim.Play("Attack" + choose);
