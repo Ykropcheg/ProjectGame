@@ -13,7 +13,7 @@ public class DemonScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        HealingSpell();
+        
     }
 
     void HealingSpell(){

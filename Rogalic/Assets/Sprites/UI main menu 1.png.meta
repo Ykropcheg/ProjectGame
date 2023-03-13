@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2e2133a837303974d898cb4733b57df3
+guid: 1d15e8bd8bf424649808070ed388a82e
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,11 +105,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: UI main menu_0
+      name: UI main menu 1_0
       rect:
         serializedVersion: 2
         x: 14
-        y: 99
+        y: 148
         width: 102
         height: 38
       alignment: 0
@@ -119,18 +119,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f80b42e5765f4b41ae1b817f1d32dcf
-      internalID: -1675329803
+      spriteID: 53e769ee6376dbb4a9618b94d6140e97
+      internalID: 255095456
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI main menu_1
+      name: UI main menu 1_1
       rect:
         serializedVersion: 2
         x: 146
-        y: 99
+        y: 148
         width: 102
         height: 38
       alignment: 0
@@ -140,18 +140,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f36f51b1e68643c42833a41daf294ead
-      internalID: 653907845
+      spriteID: 7068091651163664ca98f60deddcac73
+      internalID: 847140556
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI main menu_2
+      name: UI main menu 1_2
       rect:
         serializedVersion: 2
         x: 0
-        y: 50
+        y: 99
         width: 132
         height: 37
       alignment: 0
@@ -161,14 +161,56 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 27025dd97d6acdc4ea9b50a6d9d5d067
-      internalID: -1788632970
+      spriteID: 21e82e87083b3ed46b4a4e9a8e2b7367
+      internalID: 716310572
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI main menu_3
+      name: UI main menu 1_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 98
+        width: 102
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a318e8fe4992644f83d10b0af7a5bdf
+      internalID: -1130117867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI main menu 1_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 49
+        width: 102
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca2a75c7b149084591796359334b6a5
+      internalID: -889881973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI main menu 1_5
       rect:
         serializedVersion: 2
         x: 146
@@ -182,20 +224,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 90cfa4ba0ffe2644cb55e00935c6a7cf
-      internalID: 1206222218
+      spriteID: a4cd918cf895e6a41b8795f39a4668f6
+      internalID: 1415828561
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: UI main menu_4
+      name: UI main menu 1_6
       rect:
         serializedVersion: 2
-        x: 13
+        x: 69
         y: 0
-        width: 102
-        height: 38
+        width: 132
+        height: 37
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -203,8 +245,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 51ab271cd7f2b154193c3ecf632e36fe
-      internalID: -1710733249
+      spriteID: 1e2634b7d0945d74f954a04dedd1bbc7
+      internalID: -2145966163
       vertices: []
       indices: 
       edges: []
@@ -220,11 +262,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      UI main menu_2: -1788632970
-      UI main menu_0: -1675329803
-      UI main menu_4: -1710733249
-      UI main menu_3: 1206222218
-      UI main menu_1: 653907845
+      UI main menu 1_2: 716310572
+      UI main menu 1_4: -889881973
+      UI main menu 1_6: -2145966163
+      UI main menu 1_3: -1130117867
+      UI main menu 1_0: 255095456
+      UI main menu 1_5: 1415828561
+      UI main menu 1_1: 847140556
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

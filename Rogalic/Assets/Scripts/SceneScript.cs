@@ -7,5 +7,6 @@ public class SceneScript : MonoBehaviour
 {
     public void Scene(int numberScenes){
         SceneManager.LoadScene(numberScenes);
+        Time.timeScale = 1f;
     }
 }
