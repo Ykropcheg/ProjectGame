@@ -1,7 +1,5 @@
 ﻿using UnityEngine;
-using System.Collections;
-using System;
-
+using UnityEngine.SceneManagement;
 public class CharacterController : MonoBehaviour 
 {
     public Rigidbody2D rb;
@@ -95,7 +93,8 @@ public class CharacterController : MonoBehaviour
     //===============DeathZone===============
     void DeathZone(){
         if(transform.position.y <= -2f){
-            destroyEventCharacter();
+            int sceneIndex = SceneManager.GetActiveScene().buildIndex;
+            SceneManager.LoadScene(sceneIndex);
         }
     }
 
@@ -116,16 +115,4 @@ public class CharacterController : MonoBehaviour
             interactableObj.Interact();
         }
     }
-
-    private void OnCollisionEnter2D(Collision2D other) {
-        if(other.gameObject.tag == "MoveDamager"){
-            float dmg = 20;
-            GetComponent<HealthBar>().PlayerTakeDamage(dmg);
-        }
-    }
-    public void destroyEventCharacter()
-    {
-        Destroy(gameObject);
-    } 
-
 }

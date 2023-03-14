@@ -1,17 +1,18 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class NecromancerScript : MonoBehaviour
 {
     // Start is called before the first frame update
     public Transform SpawnPoint;
-    public Transform player;
-    public GameObject SkeletonHead;
-    public Animator aniim;
+    [SerializeField] private Transform player;
+    [SerializeField] private GameObject SkeletonHead;
+    [SerializeField] private Animator aniim;
+
     void Start()
     {
-        
+        player = GameObject.FindWithTag("Player").transform;
+        aniim = GetComponent<Animator>();
+        SkeletonHead = Resources.Load<GameObject>("Skeleton_Head");
     }
 
     // Update is called once per frame
@@ -25,6 +26,6 @@ public class NecromancerScript : MonoBehaviour
     }
 
     public void AnimPlay(){
-        aniim.Play("Necromancer_Priziv");
+        aniim.Play("Necromancerv2_cast3");
     }
 }
