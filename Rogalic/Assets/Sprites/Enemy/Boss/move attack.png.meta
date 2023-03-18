@@ -108,33 +108,12 @@ TextureImporter:
       name: move attack_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 291
-        width: 432
-        height: 574
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e113fb47b2346ad418b2c662710dc9c5
-      internalID: 294254911
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: move attack_1
-      rect:
-        serializedVersion: 2
-        x: 477
-        y: 291
-        width: 432
-        height: 574
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 9
+        y: 278
+        width: 411
+        height: 583
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -150,12 +129,12 @@ TextureImporter:
       name: move attack_2
       rect:
         serializedVersion: 2
-        x: 934
-        y: 291
-        width: 432
-        height: 574
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 953
+        y: 278
+        width: 411
+        height: 583
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -171,12 +150,12 @@ TextureImporter:
       name: move attack_3
       rect:
         serializedVersion: 2
-        x: 1371
-        y: 291
-        width: 432
-        height: 574
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1373
+        y: 278
+        width: 411
+        height: 583
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -192,12 +171,12 @@ TextureImporter:
       name: move attack_4
       rect:
         serializedVersion: 2
-        x: 1810
-        y: 291
-        width: 432
-        height: 574
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1819
+        y: 278
+        width: 411
+        height: 583
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -213,12 +192,12 @@ TextureImporter:
       name: move attack_5
       rect:
         serializedVersion: 2
-        x: 2255
-        y: 291
-        width: 432
-        height: 574
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2260
+        y: 278
+        width: 411
+        height: 583
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -234,12 +213,12 @@ TextureImporter:
       name: move attack_6
       rect:
         serializedVersion: 2
-        x: 2736
-        y: 291
-        width: 432
-        height: 574
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2752
+        y: 278
+        width: 411
+        height: 583
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -255,12 +234,12 @@ TextureImporter:
       name: move attack_7
       rect:
         serializedVersion: 2
-        x: 3209
-        y: 291
-        width: 432
-        height: 574
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3221
+        y: 278
+        width: 411
+        height: 583
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -276,12 +255,12 @@ TextureImporter:
       name: move attack_8
       rect:
         serializedVersion: 2
-        x: 3714
-        y: 291
-        width: 432
-        height: 568
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 3719
+        y: 278
+        width: 411
+        height: 583
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -297,11 +276,11 @@ TextureImporter:
       name: move attack_9
       rect:
         serializedVersion: 2
-        x: 4514
-        y: 291
-        width: 432
-        height: 574
-      alignment: 0
+        x: 4517
+        y: 278
+        width: 411
+        height: 583
+      alignment: 9
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -318,11 +297,11 @@ TextureImporter:
       name: move attack_10
       rect:
         serializedVersion: 2
-        x: 5117
-        y: 291
-        width: 432
-        height: 574
-      alignment: 0
+        x: 5125
+        y: 278
+        width: 411
+        height: 583
+      alignment: 9
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -339,12 +318,12 @@ TextureImporter:
       name: move attack_11
       rect:
         serializedVersion: 2
-        x: 5694
-        y: 291
-        width: 432
-        height: 574
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 5703
+        y: 278
+        width: 411
+        height: 583
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -360,12 +339,12 @@ TextureImporter:
       name: move attack_12
       rect:
         serializedVersion: 2
-        x: 6227
-        y: 291
-        width: 432
-        height: 574
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 6230
+        y: 278
+        width: 411
+        height: 583
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -382,11 +361,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 6798
-        y: 291
-        width: 432
-        height: 574
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        y: 278
+        width: 411
+        height: 583
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -402,12 +381,12 @@ TextureImporter:
       name: move attack_14
       rect:
         serializedVersion: 2
-        x: 7403
-        y: 291
-        width: 432
-        height: 574
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 7412
+        y: 278
+        width: 411
+        height: 583
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -423,12 +402,12 @@ TextureImporter:
       name: move attack_15
       rect:
         serializedVersion: 2
-        x: 7998
-        y: 291
-        width: 432
-        height: 574
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 8009
+        y: 278
+        width: 411
+        height: 583
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -444,12 +423,12 @@ TextureImporter:
       name: move attack_16
       rect:
         serializedVersion: 2
-        x: 8762
-        y: 291
-        width: 432
-        height: 574
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 8780
+        y: 278
+        width: 411
+        height: 583
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -465,12 +444,12 @@ TextureImporter:
       name: move attack_17
       rect:
         serializedVersion: 2
-        x: 9432
-        y: 291
-        width: 432
-        height: 574
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 9445
+        y: 278
+        width: 411
+        height: 583
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -486,12 +465,12 @@ TextureImporter:
       name: move attack_18
       rect:
         serializedVersion: 2
-        x: 10009
-        y: 291
-        width: 432
-        height: 574
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 10010
+        y: 278
+        width: 411
+        height: 583
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -507,12 +486,12 @@ TextureImporter:
       name: move attack_19
       rect:
         serializedVersion: 2
-        x: 10546
-        y: 291
-        width: 432
-        height: 574
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 10532
+        y: 278
+        width: 411
+        height: 583
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -528,12 +507,12 @@ TextureImporter:
       name: move attack_20
       rect:
         serializedVersion: 2
-        x: 11087
-        y: 291
-        width: 432
-        height: 574
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 11079
+        y: 278
+        width: 411
+        height: 583
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -549,12 +528,12 @@ TextureImporter:
       name: move attack_21
       rect:
         serializedVersion: 2
-        x: 11552
-        y: 291
-        width: 432
-        height: 574
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 11548
+        y: 278
+        width: 411
+        height: 583
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -570,12 +549,12 @@ TextureImporter:
       name: move attack_22
       rect:
         serializedVersion: 2
-        x: 12003
-        y: 291
-        width: 432
-        height: 574
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 12021
+        y: 278
+        width: 362
+        height: 583
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -583,6 +562,27 @@ TextureImporter:
       bones: []
       spriteID: 5d451ccbd47147e4481349b525f021a6
       internalID: 1470446490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move attack_1
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 278
+        width: 411
+        height: 583
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd7691b17e2704438bf2b04552f2e00
+      internalID: -1925136086
       vertices: []
       indices: 
       edges: []
@@ -604,14 +604,14 @@ TextureImporter:
       move attack_14: -2090649588
       move attack_10: -1001651026
       move attack_3: -818674500
-      move attack_0: 294254911
+      move attack_0: 256185873
       move attack_6: 1538554905
       move attack_18: 772225068
       move attack_15: -1788571817
       move attack_8: -1378686917
       move attack_9: -2138211503
       move attack_13: 2024569232
-      move attack_1: 256185873
+      move attack_1: -1925136086
       move attack_16: 1129437036
       move attack_4: -1422944492
       move attack_22: 1470446490

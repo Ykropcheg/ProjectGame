@@ -103,7 +103,1246 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: vanish_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2931
+        width: 418
+        height: 639
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2aa51e0c77ff6944bd222be94cd4dfe
+      internalID: 1336628360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanish_1
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 2931
+        width: 418
+        height: 639
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c95807808afad84b93a0946364e2adb
+      internalID: -1033841002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanish_2
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 2931
+        width: 418
+        height: 639
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77ba27bd4fccad4190f3b95b6821cea
+      internalID: 788585248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanish_3
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 2931
+        width: 418
+        height: 639
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453f166fea951f54ebe99ed825c66b21
+      internalID: 13475582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanish_4
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 2931
+        width: 418
+        height: 639
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dff188a5cbd6841bee4a88bc094520
+      internalID: 1981916941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanish_5
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 2931
+        width: 418
+        height: 639
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d339032f7453d845b0187af6b6c5325
+      internalID: 2023481167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vanish_6
+      rect:
+        serializedVersion: 2
+        x: 2734
+        y: 2931
+        width: 418
+        height: 639
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f7965c88e1efb46a0b6c0a2d1c7195
+      internalID: 324974704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move_14
+      rect:
+        serializedVersion: 2
+        x: 12449
+        y: 2932
+        width: 418
+        height: 639
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973f91bc652951c4e93093ea972141f7
+      internalID: 119546444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move_15
+      rect:
+        serializedVersion: 2
+        x: 13119
+        y: 2936
+        width: 418
+        height: 639
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde9fb7173aed384dbcb762c43bf7a8d
+      internalID: -37612850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move_16
+      rect:
+        serializedVersion: 2
+        x: 13668
+        y: 2932
+        width: 418
+        height: 639
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266e5163158e00847a086e77db155ba0
+      internalID: -84267691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move_17
+      rect:
+        serializedVersion: 2
+        x: 14195
+        y: 2932
+        width: 418
+        height: 639
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9057f77b0a2cba043bec32f930d5f6a3
+      internalID: -795035143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move_18
+      rect:
+        serializedVersion: 2
+        x: 14735
+        y: 2932
+        width: 418
+        height: 639
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21dcd428a7d3c346b328c6a69a4c3d5
+      internalID: 2064516892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move_19
+      rect:
+        serializedVersion: 2
+        x: 15221
+        y: 2932
+        width: 418
+        height: 639
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d3cba9ef8d6d949a8edb314e32cf1c
+      internalID: 1389032366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move_20
+      rect:
+        serializedVersion: 2
+        x: 15706
+        y: 2932
+        width: 418
+        height: 639
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11555fd23f83d09409bd6ab10512a130
+      internalID: 1600118494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move_21
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 2184
+        width: 418
+        height: 639
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bded2e2a4e7ec439df41b40a32342b
+      internalID: 1844839598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move_22
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 2184
+        width: 418
+        height: 639
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dad6e72f121c2f4ea1a849526339306
+      internalID: 818018163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move_23
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2184
+        width: 418
+        height: 639
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b45a40b118ad14c8992761fc887dce
+      internalID: -491904166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move_24
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 2184
+        width: 418
+        height: 639
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc571759ac8a8f2498df8a72084241f7
+      internalID: -2096077428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move_25
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 2184
+        width: 418
+        height: 639
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92e19afd696ab342b7da4c33a1f3052
+      internalID: 1724923805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move_26
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 2184
+        width: 418
+        height: 639
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b235f35d6787ec429cb873aaff99bc5
+      internalID: 1040815617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_27
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 2147
+        width: 514
+        height: 669
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a55ffc746a7684783eb085f051b37c
+      internalID: -1694228330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_32
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 2147
+        width: 514
+        height: 669
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7427e5cb3bb58469d40478f4b61808
+      internalID: -1314660678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_33
+      rect:
+        serializedVersion: 2
+        x: 6116
+        y: 2147
+        width: 514
+        height: 669
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7b39e199692a5428a045e7c8b681ef
+      internalID: -462714579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_34
+      rect:
+        serializedVersion: 2
+        x: 6665
+        y: 2158
+        width: 514
+        height: 669
+      alignment: 9
+      pivot: {x: 0.5, y: 0.262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4366f72753f9b498619114ca4a09c9
+      internalID: -1499939807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_35
+      rect:
+        serializedVersion: 2
+        x: 7213
+        y: 2158
+        width: 514
+        height: 669
+      alignment: 9
+      pivot: {x: 0.5, y: 0.262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69f1c2284e7b3447b868b7f1169bdc6
+      internalID: -191013085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_36
+      rect:
+        serializedVersion: 2
+        x: 7730
+        y: 2158
+        width: 514
+        height: 669
+      alignment: 9
+      pivot: {x: 0.5, y: 0.262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b540fb11452aa249ab1db6f38eaf038
+      internalID: -1623107110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_37
+      rect:
+        serializedVersion: 2
+        x: 8292
+        y: 2158
+        width: 514
+        height: 669
+      alignment: 9
+      pivot: {x: 0.46, y: 0.262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5461420145610464f9b364a5a64b78d4
+      internalID: -249891428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_38
+      rect:
+        serializedVersion: 2
+        x: 8877
+        y: 2147
+        width: 544
+        height: 669
+      alignment: 9
+      pivot: {x: 0.47, y: 0.262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6d993f8e5aac047a832dab985bde9b
+      internalID: 2009464074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_39
+      rect:
+        serializedVersion: 2
+        x: 9529
+        y: 2148
+        width: 599
+        height: 669
+      alignment: 9
+      pivot: {x: 0.48, y: 0.262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff5a36ac00b9bd4fbae84eefe6f0d8c
+      internalID: 1157600051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_40
+      rect:
+        serializedVersion: 2
+        x: 10208
+        y: 2155
+        width: 553
+        height: 669
+      alignment: 9
+      pivot: {x: 0.53, y: 0.262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea27cb855a9a8a343998b64dd9f5bbd9
+      internalID: 540234601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_41
+      rect:
+        serializedVersion: 2
+        x: 10877
+        y: 2155
+        width: 598
+        height: 669
+      alignment: 9
+      pivot: {x: 0.52, y: 0.262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0b7010e26973c46adb78acb24f6172
+      internalID: -659756342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_42
+      rect:
+        serializedVersion: 2
+        x: 11568
+        y: 2159
+        width: 1000
+        height: 669
+      alignment: 9
+      pivot: {x: 0.5, y: 0.262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f3829f39aaa9a45b4e989a47c662c2
+      internalID: 1960799146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_61
+      rect:
+        serializedVersion: 2
+        x: 9664
+        y: 135
+        width: 415
+        height: 624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416bd9f13102c704bb132ddc214901bc
+      internalID: -915630654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_62
+      rect:
+        serializedVersion: 2
+        x: 10308
+        y: 135
+        width: 415
+        height: 624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238086ba253d1ac4e94010ca134819b4
+      internalID: -1643761121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_63
+      rect:
+        serializedVersion: 2
+        x: 10899
+        y: 135
+        width: 415
+        height: 624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0060a9d924dc64fa8772f3fac91676
+      internalID: 810000411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_64
+      rect:
+        serializedVersion: 2
+        x: 11433
+        y: 135
+        width: 415
+        height: 624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f60b299bc554c40a48d96ce02b3fc0
+      internalID: 1269274138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_65
+      rect:
+        serializedVersion: 2
+        x: 11958
+        y: 135
+        width: 415
+        height: 624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41aa9ffcc7aab9541a6994623f61398f
+      internalID: -1062615274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_66
+      rect:
+        serializedVersion: 2
+        x: 12488
+        y: 135
+        width: 415
+        height: 624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb0b10595862cb498929a3d13f22aa7
+      internalID: 1703580266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_67
+      rect:
+        serializedVersion: 2
+        x: 13005
+        y: 135
+        width: 415
+        height: 624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a801d9c57f5b5e4f97cd6b739d258b6
+      internalID: 2114858707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_68
+      rect:
+        serializedVersion: 2
+        x: 13513
+        y: 135
+        width: 415
+        height: 624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba60d0c2f4649e743a65c3e7ca70842e
+      internalID: -1566874293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_69
+      rect:
+        serializedVersion: 2
+        x: 14027
+        y: 135
+        width: 415
+        height: 624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90c4e86adbbf364791107a67537d55b
+      internalID: -833970617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_43
+      rect:
+        serializedVersion: 2
+        x: 12657
+        y: 2172
+        width: 1457
+        height: 624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8d1b2edfa069847bd519e85858372a
+      internalID: 636869241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_44
+      rect:
+        serializedVersion: 2
+        x: 14089
+        y: 2163
+        width: 1457
+        height: 624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcada7249223b0448b19931039ada38e
+      internalID: 5789677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1283
+        width: 1457
+        height: 624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3117efd31600d4ba6012e7e9b0d6fd
+      internalID: 1143622620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_46
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1295
+        width: 1457
+        height: 624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11475a99912cbf746b88502246483674
+      internalID: -2104636842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_47
+      rect:
+        serializedVersion: 2
+        x: 2972
+        y: 1295
+        width: 1457
+        height: 624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495d02d329f92a646aae828cea465dd6
+      internalID: 1110604329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_48
+      rect:
+        serializedVersion: 2
+        x: 4506
+        y: 1295
+        width: 1457
+        height: 624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7971ac252f2fed0408f4550f236f254a
+      internalID: 261195709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_49
+      rect:
+        serializedVersion: 2
+        x: 6121
+        y: 1283
+        width: 1475
+        height: 624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babca444cfd207e4d893ef24af9fa099
+      internalID: 1214305671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_50
+      rect:
+        serializedVersion: 2
+        x: 7760
+        y: 1283
+        width: 1475
+        height: 624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6e365d0f0793f42ae0374fbd832237
+      internalID: -1468017132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_51
+      rect:
+        serializedVersion: 2
+        x: 9453
+        y: 1283
+        width: 1475
+        height: 624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d556944f3816e8439031817d08d2de2
+      internalID: -1420949409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_52
+      rect:
+        serializedVersion: 2
+        x: 10933
+        y: 1295
+        width: 1475
+        height: 624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3a22c091f7bce4f922c197874862a3
+      internalID: 1440796097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_53
+      rect:
+        serializedVersion: 2
+        x: 12367
+        y: 1319
+        width: 1475
+        height: 624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f432a798bb058e4c93673f474dd4cbe
+      internalID: 1814592618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_54
+      rect:
+        serializedVersion: 2
+        x: 13837
+        y: 1343
+        width: 1475
+        height: 624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff68dd5bb904f9546bd8c13fbd636ee4
+      internalID: 283982053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_55
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 206
+        width: 1457
+        height: 624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d46bb88f12e694e82925f1251ab300
+      internalID: -897256778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_56
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 228
+        width: 1457
+        height: 624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d79f3fb33e3a1f4fb161f9e0abe9e23
+      internalID: 1021745130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_57
+      rect:
+        serializedVersion: 2
+        x: 3281
+        y: 195
+        width: 1457
+        height: 624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c926b6658fd654744a3434ec12bd0b9e
+      internalID: -1499169102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_58
+      rect:
+        serializedVersion: 2
+        x: 4908
+        y: 171
+        width: 1457
+        height: 624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fd84837c885ee42896d129c2876760
+      internalID: 790005753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_59
+      rect:
+        serializedVersion: 2
+        x: 6513
+        y: 146
+        width: 1457
+        height: 624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c10591450d1835489b19b49006a4233
+      internalID: 1742020861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poweredattack_60
+      rect:
+        serializedVersion: 2
+        x: 7986
+        y: 148
+        width: 1457
+        height: 624
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3e8b7f5210fe94590a65f2fca41264
+      internalID: -1477007461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -114,7 +1353,779 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      vanish attack_670: -581886774
+      vanish attack_57: 1557585193
+      vanish attack_593: -2129197552
+      vanish attack_220: 585207417
+      vanish attack_438: -98250564
+      vanish attack_370: -90627793
+      vanish attack_750: 652437310
+      vanish attack_740: -592237400
+      vanish attack_413: -1173485911
+      vanish attack_747: 1561791021
+      vanish attack_520: 1147452168
+      vanish attack_326: 318716244
+      vanish attack_612: 655491984
+      move_14: 119546444
+      vanish attack_64: 183413205
+      vanish attack_245: -1753696168
+      vanish attack_224: 600159277
+      vanish attack_447: 758799804
+      vanish_8: -242201860
+      vanish attack_636: -171365088
+      vanish attack_687: -2112699332
+      vanish attack_192: -136127211
+      vanish attack_741: -1496868789
+      vanish attack_165: -1213538958
+      vanish attack_106: -1478988982
+      vanish attack_532: 717554448
+      vanish attack_144: 463363575
+      vanish attack_137: -681878780
+      vanish attack_506: -53799330
+      vanish attack_300: -257782461
+      vanish attack_562: 855390864
+      vanish attack_554: -1873880407
+      vanish attack_134: 25305767
+      vanish attack_286: 1267187475
+      poweredattack_65: -1062615274
+      vanish attack_742: 1039964946
+      vanish attack_597: -1433244025
+      vanish attack_458: 945326803
+      vanish attack_365: 1464665203
+      vanish attack_358: -1946415348
+      poweredattack_55: -897256778
+      vanish attack_653: 1624829629
+      vanish attack_231: 915648182
+      move_16: -84267691
+      vanish attack_111: 249863610
+      vanish attack_321: -1658398875
+      vanish attack_93: 830454368
+      vanish attack_229: -1548870195
+      vanish attack_665: -1173796964
+      vanish attack_131: 834502654
+      vanish attack_498: -1802652473
+      vanish attack_376: -1859292157
+      vanish attack_446: 2091061085
+      vanish attack_452: 2071789881
+      vanish attack_731: 259763028
+      vanish attack_709: -1005427663
+      vanish attack_132: 177911512
+      vanish attack_571: 259167179
+      vanish attack_109: -100922920
+      vanish attack_471: 551182495
+      vanish attack_352: 706152557
+      vanish attack_431: -1074892053
+      vanish attack_533: -389732288
+      poweredattack_63: 810000411
+      vanish attack_369: -1281916750
+      vanish attack_177: -3193744
+      vanish attack_505: 2115312128
+      vanish attack_399: 1201751653
+      vanish attack_263: -1334540261
+      vanish attack_267: -852342970
+      vanish_6: 324974704
+      vanish attack_481: -621474034
+      vanish attack_580: -160029848
+      poweredattack_32: -1844658054
+      poweredattack_41: 2036092729
+      vanish attack_309: -1881016947
+      vanish attack_739: 517726513
+      vanish attack_123: -646075414
+      vanish attack_550: 139128858
+      vanish attack_351: -602347051
+      vanish attack_175: -179239006
+      vanish attack_233: -1638584899
+      vanish attack_468: 612755301
+      vanish attack_193: 2000119665
+      vanish attack_396: 1747778415
+      vanish attack_174: 731201626
+      vanish attack_307: 617175929
+      poweredattack_59: 1742020861
+      vanish attack_179: -995192422
+      vanish attack_654: 479822886
+      vanish attack_92: 955923576
+      vanish attack_88: -421579906
+      vanish attack_258: -329541437
+      vanish attack_354: -771356896
+      vanish attack_619: 1029328453
+      vanish attack_751: -50671404
+      vanish attack_265: -1370082676
+      vanish attack_392: 595495619
+      vanish attack_717: 1414579427
+      poweredattack_34: 2110827851
+      vanish attack_215: -387217206
+      move_18: 2064516892
+      vanish attack_474: -747088019
+      vanish attack_652: 496650181
+      vanish attack_667: -736764263
+      vanish_12: -26145588
+      vanish attack_479: -694916283
+      vanish attack_592: -1383471094
+      vanish attack_279: -961520896
+      vanish attack_419: -78189957
+      poweredattack_28: -1112234741
+      vanish attack_89: -756817399
+      vanish attack_140: -1685217649
+      vanish attack_536: -1349179240
+      vanish attack_601: 1023495314
+      vanish attack_296: -490256088
+      vanish attack_436: 424639100
+      vanish attack_133: -875525527
+      vanish attack_443: -1499886001
+      vanish attack_154: 339286213
+      vanish attack_379: 2051708725
+      vanish attack_430: -496734014
+      vanish attack_77: -657337262
+      vanish attack_752: -1819168471
+      vanish attack_586: 1276196602
+      vanish attack_632: 1425292333
+      vanish attack_149: -2038203201
+      vanish attack_169: 1776386481
+      vanish attack_188: -1476969601
+      vanish attack_289: -522763658
+      vanish attack_603: 993684609
+      vanish attack_682: 1349107914
+      vanish attack_316: 195728260
+      vanish attack_640: -950635859
+      poweredattack_38: 1005408188
+      vanish attack_129: -733098251
+      vanish attack_613: 2001059052
+      vanish_11: -905165885
+      vanish attack_210: 1313455572
+      vanish attack_449: 697545489
+      vanish attack_359: -226440683
+      vanish attack_525: -1241469664
+      vanish attack_523: 452867227
+      vanish attack_729: 1363577602
+      vanish attack_284: -715737953
+      vanish attack_563: 730686551
+      poweredattack_51: -1420949409
+      vanish attack_547: -1693739921
+      vanish attack_116: -1260032867
+      poweredattack_44: 5789677
+      vanish attack_661: -1383121097
+      vanish attack_521: -174638785
+      vanish attack_270: -1614511855
+      vanish attack_549: 1921225689
+      vanish attack_567: -1463351721
+      vanish attack_608: -1216310224
+      vanish attack_738: -306188140
+      vanish attack_712: 797988847
+      vanish attack_518: 694662464
+      vanish attack_602: -1769859587
+      vanish attack_495: 703056408
+      vanish attack_656: 226920340
+      vanish attack_695: -2062775954
+      vanish attack_444: 1357621996
+      vanish attack_625: 1775971261
+      vanish attack_557: 1927830479
+      vanish attack_620: 1793551314
+      vanish attack_564: 589247625
+      vanish attack_626: 528621894
+      vanish attack_710: -1578445704
+      vanish attack_492: -2013979714
+      move_26: 1040815617
+      vanish attack_435: -1215387177
+      vanish attack_473: 1644080306
+      vanish attack_157: -703674411
+      vanish attack_609: -1334877407
+      vanish attack_429: 1992901161
+      vanish attack_493: 2088359685
+      vanish attack_66: -1325868599
+      vanish attack_663: 672556039
+      vanish attack_568: 1543926116
+      vanish attack_99: 1199040078
+      vanish attack_509: -183673248
+      vanish attack_674: -641379130
+      vanish attack_531: -497721068
+      vanish attack_537: 1811404364
+      vanish attack_708: -1332386215
+      vanish attack_610: -623861886
+      vanish attack_374: -1038460431
+      vanish attack_462: 2072311112
+      vanish attack_482: 405772503
+      vanish attack_575: -806121924
+      poweredattack_46: -2104636842
+      vanish attack_677: -773274176
+      vanish attack_624: -685746515
+      vanish attack_390: 1148060302
+      vanish attack_383: 912117752
+      vanish attack_117: 1000455817
+      vanish attack_330: 397183372
+      vanish attack_553: 290913541
+      vanish attack_115: -1275953371
+      vanish attack_517: -406373162
+      vanish attack_642: 757457120
+      vanish attack_538: 845518427
+      vanish attack_227: 573840869
+      vanish attack_688: -262941655
+      vanish attack_55: 1942964524
+      vanish attack_510: 3379130
+      vanish attack_643: 90772514
+      vanish attack_397: -97332467
+      vanish attack_690: 1616929936
+      vanish attack_331: -2039608140
+      vanish attack_341: -409106251
+      vanish attack_264: 1689072290
+      vanish attack_611: 635620
+      vanish attack_633: 2113412616
+      vanish attack_114: 496642322
+      vanish attack_651: -1806173000
+      vanish attack_56: -1409512239
+      vanish attack_367: 155032633
+      vanish attack_240: -411940139
+      vanish attack_364: -831576910
+      vanish attack_485: -42740788
+      vanish attack_701: 709242534
+      vanish attack_552: -287410310
+      vanish attack_138: 1086897779
+      vanish attack_494: 1211229968
+      vanish attack_680: -617646614
+      vanish attack_152: 1827532787
+      vanish attack_706: -698111234
+      vanish attack_288: 801071102
+      vanish attack_726: 780264919
+      vanish attack_540: 1144332229
+      vanish attack_704: -1101661690
+      vanish attack_327: 1130618524
+      vanish attack_660: -474774259
+      poweredattack_69: -833970617
+      vanish attack_128: -1700135043
+      vanish attack_60: -1181578286
+      vanish attack_415: -980327532
+      vanish attack_102: 1602044762
+      vanish attack_700: 116559312
+      vanish attack_439: 1564846400
+      vanish attack_507: 899629279
+      vanish attack_246: -1805286724
+      vanish attack_478: 1290215040
+      vanish attack_734: -1665507187
+      vanish attack_631: 1305421532
+      vanish attack_703: 137121348
+      poweredattack_40: 1025320306
+      vanish attack_255: 1593743853
+      vanish attack_297: 809898050
+      vanish attack_526: -1071073400
+      vanish attack_308: -266242737
+      poweredattack_42: -938688501
+      vanish attack_453: -1171174437
+      vanish attack_529: -710530336
+      vanish attack_599: 2119410446
+      vanish attack_404: 502221918
+      vanish attack_285: -1536862484
+      vanish attack_639: 1559304648
+      vanish attack_280: -736038778
+      vanish attack_156: 632712752
+      vanish attack_630: 1686040534
+      vanish attack_250: -806892391
+      vanish attack_424: 2113841135
+      vanish attack_242: -552420384
+      vanish attack_735: -314900743
+      vanish attack_422: 1481196959
+      vanish attack_299: -514463621
+      vanish attack_217: 1793127765
+      vanish attack_125: -360863341
+      vanish attack_91: 1325998684
+      vanish attack_160: -2053777608
+      vanish attack_253: -624035027
+      vanish attack_110: 1011504484
+      vanish attack_283: -1911530669
+      vanish attack_345: 1886636893
+      vanish attack_180: 190167633
+      vanish attack_80: -1232781436
+      vanish attack_460: 1165753902
+      vanish attack_754: 1032492932
+      vanish attack_530: -2142042023
+      vanish attack_573: 1004810477
+      vanish attack_75: 1843706992
+      vanish attack_541: -1483362126
+      vanish attack_191: -2130617138
+      vanish attack_668: -1644742285
+      vanish attack_516: 30707443
+      vanish attack_333: -1492081235
+      vanish attack_658: -775790397
+      vanish attack_629: -2036347266
+      vanish attack_604: 1857552333
+      vanish attack_684: 1308514783
+      vanish attack_545: 185083695
+      poweredattack_64: 1269274138
+      vanish attack_260: 854932210
+      vanish attack_311: 1008380183
+      vanish attack_214: 890335989
+      vanish attack_614: -1829979599
+      vanish attack_432: -349343679
+      vanish attack_425: -363321125
+      vanish attack_417: -616276263
+      vanish attack_528: 574980924
+      vanish attack_251: -1346203841
+      vanish attack_512: -2020044515
+      vanish attack_96: -645148826
+      vanish attack_590: -2005551388
+      vanish attack_68: -1614725600
+      vanish attack_705: -470967932
+      vanish attack_90: 932729917
+      vanish attack_515: -1336417471
+      vanish attack_329: 1475970575
+      vanish attack_259: -1312043021
+      vanish attack_736: -837325007
+      vanish_4: 1981916941
+      vanish attack_305: -958455675
+      vanish attack_595: -359279793
+      vanish attack_124: 1785013428
+      vanish attack_136: 960991860
+      vanish attack_350: -2107875516
+      vanish attack_489: 308238267
+      vanish attack_440: -196964666
+      vanish attack_488: 617838743
+      vanish attack_594: -239776905
+      vanish attack_178: -1815264972
+      vanish attack_303: -1400726660
+      poweredattack_37: -975511986
+      vanish attack_588: -1565372135
+      vanish attack_645: -183008600
+      vanish attack_118: 446440482
+      vanish attack_348: -687150557
+      vanish attack_715: -1387935688
+      vanish attack_535: 1275364923
+      vanish attack_691: -1148471771
+      vanish attack_143: -676071898
+      vanish attack_723: -11153620
+      vanish attack_635: -1340164959
+      vanish attack_357: 1788556645
+      vanish attack_219: 855220609
+      poweredattack_56: 1021745130
+      vanish attack_223: -994994978
+      vanish attack_416: 2014745502
+      move_23: -491904166
+      vanish attack_334: 367911705
+      vanish attack_204: -1096012691
+      vanish attack_412: 2048378659
+      vanish attack_61: 448926997
+      vanish attack_697: -272699252
+      vanish attack_426: -621014145
+      poweredattack_53: 1814592618
+      poweredattack_31: 116166374
+      vanish attack_371: 51774667
+      vanish attack_499: -695128293
+      vanish attack_686: -829122447
+      vanish attack_282: -1649851899
+      vanish attack_743: 1715737902
+      vanish attack_257: -869789794
+      vanish attack_171: 461131399
+      vanish attack_534: 1399828746
+      vanish attack_576: 1190797878
+      vanish attack_272: 2110945790
+      vanish attack_276: 1443880501
+      vanish attack_79: -1483436419
+      vanish attack_361: -616362172
+      vanish attack_758: -839558018
+      vanish attack_97: -2131051945
+      vanish attack_756: 631787017
+      move_21: 1844839598
+      vanish attack_544: -1030073648
+      vanish attack_208: -2099651741
+      vanish attack_87: 882771711
+      vanish attack_291: 1847591383
+      vanish_9: 2008605047
+      vanish attack_502: 291451153
+      vanish attack_500: -1925247967
+      vanish attack_181: 815573768
+      vanish attack_205: -828595239
+      vanish attack_627: 1434629874
+      vanish attack_732: -1489370535
+      vanish attack_433: -11915245
+      vanish attack_268: -2056774815
+      vanish attack_278: 618470441
+      vanish attack_377: 1373327108
+      vanish attack_692: 415245231
+      vanish attack_437: 1069155695
+      vanish attack_451: -2120091373
+      vanish attack_225: -1120138709
+      vanish attack_469: 370149559
+      vanish attack_476: 1045104871
+      vanish attack_409: -787353015
+      vanish attack_194: 1415487242
+      vanish attack_130: -1429329513
+      vanish attack_182: -1657621152
+      vanish attack_150: -2098881429
+      vanish attack_166: 634480652
+      vanish attack_187: -1388411363
+      vanish attack_86: 968099522
+      vanish attack_58: 1447036548
+      vanish attack_347: -56697484
+      vanish attack_414: 1897172837
+      vanish attack_302: 1874044208
+      vanish attack_147: 1944486799
+      vanish attack_757: 886939663
+      vanish attack_119: 1956896968
+      vanish attack_464: -1308050059
+      vanish attack_287: 2019305127
+      vanish attack_566: -4569023
+      vanish attack_428: 1654399202
+      vanish attack_746: -1940347227
+      vanish attack_146: -1644898566
+      vanish attack_711: 552752405
+      move_25: 1724923805
+      poweredattack_58: 790005753
+      vanish attack_355: -1334198920
+      vanish attack_234: 1562749270
+      vanish attack_600: 757639819
+      vanish attack_421: -502845554
+      vanish attack_483: -333832625
+      vanish attack_274: -1671583986
+      vanish attack_301: 1078736395
+      vanish attack_74: 583179142
+      vanish attack_176: -1960548639
+      vanish attack_73: 826232004
+      vanish attack_206: 1493140886
+      vanish attack_322: 2045399541
+      vanish attack_151: 2021293320
+      poweredattack_57: -1499169102
+      vanish attack_216: 1352701713
+      vanish attack_362: 956215276
+      move_15: -37612850
+      vanish attack_62: 1501885745
+      vanish attack_222: 2077356939
+      vanish attack_126: 600539676
+      vanish attack_565: -1927898497
+      vanish attack_542: -965429980
+      poweredattack_52: 1440796097
+      poweredattack_54: 283982053
+      vanish attack_196: 2110952781
+      vanish attack_83: -792963251
+      vanish attack_389: -1402530108
+      vanish attack_511: -2118357578
+      vanish attack_273: 135017975
+      poweredattack_36: -1124407670
+      vanish attack_388: -1189307826
+      vanish attack_467: -764035402
+      vanish attack_486: 684261112
+      vanish attack_543: -1993623258
+      vanish attack_450: -1188367875
+      vanish attack_183: 2110976063
+      vanish attack_666: 1580443008
+      vanish attack_387: 1728688698
+      vanish attack_461: -1172718536
+      vanish attack_559: 1716461068
+      vanish_0: 1336628360
+      vanish attack_148: 1868874333
+      vanish attack_669: 1220437243
+      vanish attack_262: 155326775
+      vanish attack_657: 1325429350
+      vanish attack_310: -350957614
+      poweredattack_27: -464864112
+      vanish attack_589: -1868159853
+      vanish attack_338: -960941048
+      vanish attack_638: 1418648262
+      vanish attack_380: 1351476813
+      vanish attack_411: 1590460603
+      vanish attack_293: 2020127915
+      vanish attack_381: -499380916
+      vanish attack_108: 1285608284
+      vanish attack_163: -384403825
+      vanish attack_368: -491768257
+      vanish attack_623: -273632535
+      vanish attack_641: 1252325066
+      vanish attack_95: 556628962
+      vanish attack_745: 528607759
+      vanish attack_606: 1182089675
+      vanish attack_664: -2077283434
+      vanish attack_122: 96509737
+      vanish attack_574: 1525996154
+      vanish attack_508: 1413649575
+      vanish attack_496: -183085887
+      vanish attack_662: -1082959807
+      vanish attack_317: -1468731249
+      vanish attack_328: 2045409414
+      vanish attack_153: 921389593
+      vanish attack_491: -2134973541
+      vanish attack_441: 1398197215
+      vanish attack_142: 2017847587
+      vanish attack_198: 1706292992
+      vanish attack_678: 417068123
+      vanish attack_186: 1042780334
+      vanish attack_239: 1979492356
+      vanish attack_650: -168189161
+      vanish attack_420: -2063499673
+      vanish attack_185: -644277076
+      vanish attack_340: -1650364749
+      vanish attack_569: -564144348
+      vanish attack_197: 1193088144
+      vanish attack_484: -1403581225
+      vanish attack_570: 20158924
+      vanish attack_398: 987339280
+      vanish attack_470: -1933357369
+      vanish attack_254: -1812157344
+      vanish attack_84: 2021699973
+      vanish attack_487: -1751146268
+      vanish attack_121: 1727253782
+      poweredattack_61: -915630654
+      vanish attack_719: -1161596351
+      poweredattack_48: 261195709
+      vanish attack_378: -1294799771
+      vanish attack_221: 286887850
+      vanish attack_70: -1045001279
+      move_19: 1389032366
+      vanish attack_323: 2133154950
+      vanish attack_94: -1640496916
+      vanish attack_527: 1077582099
+      vanish attack_522: 1720915937
+      vanish attack_647: 326727962
+      vanish attack_561: -18219646
+      vanish attack_685: -1892433318
+      vanish attack_696: 685938184
+      vanish attack_675: 1677632057
+      poweredattack_60: -1477007461
+      vanish attack_442: 1469794772
+      vanish attack_266: 125773621
+      vanish attack_360: -2099233179
+      vanish attack_434: 1561231340
+      vanish attack_366: 215287983
+      vanish_5: 2023481167
+      vanish attack_716: 619748059
+      vanish attack_298: 1857258005
+      poweredattack_67: 2114858707
+      vanish attack_82: -534710385
+      vanish attack_113: -1069499174
+      vanish attack_744: 1283093366
+      vanish attack_649: 994016666
+      poweredattack_33: 975790743
+      vanish attack_71: 895370069
+      poweredattack_68: -1566874293
+      vanish attack_504: 1719829820
+      vanish attack_382: -1465220467
+      vanish attack_407: -264238844
+      vanish attack_65: -172004901
+      vanish attack_497: -1386615776
+      vanish attack_628: -866820277
+      vanish attack_320: 751723396
+      vanish attack_107: -1519198530
+      vanish attack_141: 1679515379
+      vanish attack_195: 2119541956
+      vanish attack_230: 2033087143
+      vanish attack_162: -839398130
+      vanish attack_724: 137325371
+      vanish attack_737: -99157143
+      vanish attack_159: 1438658124
+      vanish attack_372: 469193430
+      vanish attack_199: 1625389898
+      vanish attack_577: -1978252135
+      vanish attack_344: -2009635069
+      vanish attack_248: 192002068
+      vanish attack_617: -687695665
+      vanish attack_69: -184499777
+      vanish attack_459: 1282129679
+      vanish attack_325: -1856304016
+      vanish attack_391: -1430223675
+      vanish attack_281: -1814032864
+      vanish attack_261: 298630162
+      vanish attack_648: 426714861
+      vanish attack_200: 1650002811
+      vanish_3: 13475582
+      vanish attack_386: -2082007807
+      vanish attack_252: 1208279661
+      vanish attack_343: 439267562
+      vanish attack_212: -1991603785
+      vanish attack_394: 1247346039
+      vanish attack_551: 706530194
+      vanish attack_728: -46464312
+      vanish attack_158: -1705621389
+      move_20: 1600118494
+      vanish attack_514: -1194890921
+      vanish attack_213: -1635144068
+      vanish attack_271: 1555364962
+      vanish attack_681: -986215256
+      vanish attack_167: 361918413
+      vanish attack_408: -1039088225
+      vanish attack_427: -1846600014
+      vanish attack_244: -1392649506
+      vanish attack_318: -1013353684
+      vanish attack_445: -33693510
+      vanish attack_161: 990230192
+      vanish attack_615: -1890385514
+      vanish attack_228: -1411373456
+      vanish attack_385: -1640941911
+      vanish attack_237: 1461381750
+      vanish attack_112: -1661865068
+      vanish attack_457: 1837366673
+      vanish attack_676: 665163229
+      move_22: 818018163
+      vanish attack_155: -1576733507
+      vanish attack_226: 1785594193
+      vanish attack_403: -795855808
+      vanish attack_393: 2079579933
+      vanish attack_168: -1328942671
+      move_24: -2096077428
+      poweredattack_39: -1776348932
+      vanish attack_67: -742449970
+      vanish attack_202: -942774205
+      poweredattack_50: -1468017132
+      vanish attack_103: 1761009623
+      vanish attack_356: 1246237697
+      vanish attack_480: 1204732618
+      vanish attack_718: 2025727130
+      vanish attack_582: 1590553422
+      move_17: -795035143
+      vanish attack_236: -1968292470
+      vanish attack_336: -1770859734
+      vanish attack_247: -98815149
+      vanish attack_295: 1425738328
+      vanish attack_556: 288742810
+      poweredattack_35: -1177751266
+      vanish attack_749: 829336084
+      poweredattack_43: -1150310168
+      vanish attack_501: 1367475322
+      vanish attack_466: -1744997637
+      poweredattack_47: 1110604329
+      vanish attack_335: -1340227053
+      vanish attack_558: 456961435
+      vanish attack_637: 1447591209
+      vanish attack_713: 1882996020
+      vanish attack_598: -697513130
+      vanish attack_655: 131988456
+      vanish attack_694: -1073984527
+      vanish attack_646: -1148342042
+      vanish attack_342: -150244516
+      vanish attack_135: -1465453371
+      vanish attack_290: -373982030
+      vanish attack_313: -495744175
+      vanish attack_269: 1651084417
+      vanish attack_748: 930570644
+      vanish attack_249: -599954258
+      vanish attack_292: -615502688
+      vanish attack_524: -63169308
+      vanish attack_139: -2002808296
+      vanish attack_332: 1104616600
+      vanish attack_455: -608394664
+      vanish attack_721: -172135206
+      vanish attack_698: 273640189
+      vanish attack_201: -1619780992
+      vanish attack_616: 36154537
+      vanish attack_448: -654033139
+      vanish attack_190: -888269437
+      poweredattack_30: 1814780498
+      vanish attack_683: 79265327
+      vanish attack_78: 794511907
+      vanish attack_76: -832042379
+      vanish attack_755: 1991971408
+      vanish attack_671: -144716889
+      vanish attack_405: 569258643
+      vanish attack_63: -366362185
+      vanish attack_465: -1331658486
+      vanish attack_101: -55785093
+      vanish attack_105: 761502701
+      vanish attack_596: -2048230167
+      vanish attack_714: 720847158
+      vanish attack_211: -376416990
+      vanish attack_312: -397409801
+      vanish attack_400: 622853633
+      vanish attack_730: 810025551
+      vanish attack_591: 1450046370
+      vanish attack_85: 1731768984
+      vanish attack_644: 751874652
+      vanish attack_406: 1877258460
+      poweredattack_49: 1214305671
+      vanish attack_477: -1751536816
+      poweredattack_45: 1143622620
+      vanish attack_555: 1624291144
+      vanish attack_59: 1380745342
+      vanish attack_232: 1128970287
+      vanish attack_172: -1995198910
+      vanish attack_235: 718414434
+      vanish attack_72: -80152738
+      vanish attack_100: 1280818273
+      vanish attack_607: -1147106427
+      vanish attack_634: 1203779233
+      vanish attack_456: 1421062719
+      vanish attack_306: -909804175
+      vanish attack_673: 54244831
+      vanish attack_243: 312092610
+      vanish attack_720: -1786843970
+      vanish attack_572: -1556374862
+      vanish attack_339: 535688691
+      vanish attack_472: 98410684
+      vanish attack_702: 1730013069
+      vanish attack_395: -781960696
+      vanish attack_587: -711845000
+      vanish attack_81: 2018298650
+      vanish_10: -1594614103
+      vanish attack_120: -781285518
+      vanish attack_578: 232124192
+      vanish attack_579: 808783615
+      vanish attack_693: 1218415255
+      vanish attack_725: 1875443348
+      vanish attack_689: 1874842970
+      vanish attack_145: -1316345636
+      vanish attack_679: -1088775012
+      vanish_2: 788585248
+      vanish attack_184: 950073869
+      vanish attack_353: 2123239615
+      vanish attack_410: 1419450741
+      vanish attack_294: 2001006075
+      vanish attack_314: 783007225
+      vanish attack_363: -1013696807
+      vanish attack_490: -896222566
+      vanish_7: -1837497107
+      vanish attack_581: 1909912945
+      poweredattack_29: -196852829
+      vanish attack_203: -747053380
+      vanish attack_539: 2049477662
+      vanish attack_622: -886230304
+      poweredattack_62: -1643761121
+      vanish attack_605: 560227509
+      vanish attack_277: 423375518
+      vanish attack_513: 1293406508
+      vanish attack_238: -688245983
+      vanish attack_618: 2028009754
+      vanish attack_733: 1217445694
+      vanish attack_127: 1268435490
+      vanish attack_337: -318156986
+      vanish attack_209: -541900636
+      vanish attack_375: -462308801
+      vanish attack_727: -2072983648
+      vanish attack_503: 1348339933
+      vanish attack_319: 373827295
+      vanish attack_164: -1046446640
+      vanish attack_173: 284991342
+      vanish attack_241: 935270334
+      vanish_13: -2034842882
+      vanish attack_346: -1588450346
+      poweredattack_66: 1703580266
+      vanish attack_753: 1113757405
+      vanish attack_384: 785825647
+      vanish attack_699: 136357434
+      vanish attack_218: 851218557
+      vanish attack_583: -1889891565
+      vanish attack_584: -899453588
+      vanish attack_454: 2040296824
+      vanish attack_324: 34630966
+      vanish attack_519: -738756397
+      vanish attack_659: -1537041003
+      vanish_1: -1033841002
+      vanish attack_475: 1113079092
+      vanish attack_104: -1051967588
+      vanish attack_170: -144050085
+      vanish attack_98: -1428116958
+      vanish attack_315: -1979985147
+      vanish attack_463: -130137682
+      vanish attack_707: 964718834
+      vanish attack_418: 1733993197
+      vanish attack_304: 1774940306
+      vanish attack_349: -1819121383
+      vanish attack_189: 1798250306
+      vanish attack_207: 370054920
+      vanish attack_722: 1308964299
+      vanish attack_621: 922217266
+      vanish attack_423: -1506762918
+      vanish attack_256: -1652109219
+      vanish attack_401: 421342811
+      vanish attack_672: -1703007180
+      vanish attack_275: 853854567
+      vanish attack_373: 25067548
+      vanish attack_560: -1787291873
+      vanish attack_585: 665891765
+      vanish attack_402: 618723920
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
